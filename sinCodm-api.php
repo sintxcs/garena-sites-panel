@@ -1,1 +1,1 @@
-// jajak source.
+// jajac source.
