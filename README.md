@@ -53,7 +53,4 @@ This panel was crafted by **SIN**.
 
 ## Donation
 
-If you find this project useful, you can show your support by buying me a coffee. Your donation helps in maintaining and developing more tools like this.
-
--   **GCash:** [Provide your GCash details here]
--   **PayPal:** [Provide your PayPal link here]
+If you find this project useful, you can show your support by donating. Your donation helps in maintaining and developing more tools like this.
